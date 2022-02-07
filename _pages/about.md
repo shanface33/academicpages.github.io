@@ -38,7 +38,7 @@ Selected Publications
 ___
 <div class="row">
   <div class="column left">
-    <img align="left" width="28%" src="SJ_SV.jpg?raw=true">  
+    <img align="left" width="28%" src="https://shanface33.github.io/images/SJ_SV.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -69,7 +69,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="28%" src="SJ_PR.jpg?raw=true">  
+    <img align="left" width="28%" src="https://shanface33.github.io/images/SJ_PR.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -85,7 +85,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="28%" src="SJ_WF.jpg?raw=true">  
+    <img align="left" width="28%" src="https://shanface33.github.io/images/SJ_WF.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -98,6 +98,7 @@ ___
     </p>
   </div>
 </div>
+___
 
 <div align="center">
 <p>
