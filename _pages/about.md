@@ -98,10 +98,3 @@ ___
     </p>
   </div>
 </div>
-___
-
-<div align="center" width="20%">
-<p>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc&co=99ceea&cmn=4edd86&cmo=ff5389&ct=020101"></script>
-</p>
-</div>
