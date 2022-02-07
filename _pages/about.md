@@ -94,7 +94,7 @@ ___
       <u>Shan Jia</u>, Chuanbo Hu, Guodong Guo, Zhengquan Xu<br/>
       International Conference on Image Analysis and Processing (ICIAP), 2019.
      [<a href="https://arxiv.org/pdf/1906.11900.pdf?ref=https://githubhelp.com">PDF</a>]
-      [<a href="https://arxiv.org/pdf/1906.11900.pdf?ref=https://githubhelp.com">Dataset</a>]
+      [<a href="https://github.com/shanface33/Wax_Figure_Face_DB">Dataset</a>]
     </p>
   </div>
 </div>
