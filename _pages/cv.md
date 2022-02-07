@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experience & Education"
+permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,51 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<div class="row">
+  <div class="column left">
+    <img align="left" width="20%" height="20%" src="https://shanface33.github.io/images/SJ_UB.jpg?raw=true">  
+  </div>
+  
+  <div class="column right">
+    <p>
+      <strong>Post-doctoral Researcher (10/2021-present)</strong><br/>
+      University at Buffalo, State University of New York, USA<br/>
+      Supervisor: Professor <a href="https://cse.buffalo.edu/~siweilyu/index.html">Siwei Lyu</a>
+    </p>
+  </div>
+</div>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+___
+<div class="row">
+  <div class="column left">
+    <img align="left" width="20%" height="20%" src="https://shanface33.github.io/images/SJ_wvu.jpg?raw=true">  
+  </div>
+  <div class="column right">
+    <p>
+      <strong>Visiting Scholar (10/2017-06/2021)</strong><br/>
+      Computer Science, West Virginia University, USA<br/>
+      Supervisor: Professor <a href="https://xinli.faculty.wvu.edu/">Xin Li</a> and <a href="https://directory.statler.wvu.edu/faculty-staff-directory/guodong-guo">Guodong Guo</a>
+    </p>
+  </div>
+</div>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+___
+<div class="row">
+  <div class="column left">
+    <img align="left" width="20%" height="20%" src="https://shanface33.github.io/images/SJ_whu2.jpg?raw=true">  
+  </div>
+  <div class="column right">
+    <p>
+      <strong>MD-PhD (09/2014-06/2021)</strong><br/>
+      Communication and Information Systems, Wuhan University, China<br/>
+      Supervisor: Professor <a href="https://www.researchgate.net/profile/Zhengquan-Xu">Zhengquan Xu</a>
+    </p>
+  </div>
+</div>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+___
+<div class="row">
+  <div class="column left">
+    <img align="left" width="20%"  height="20%" src="https://shanface33.github.io/images/SJ_whu.jpg?raw=true">  
+  </div>
+  <div class="column right">
+    <p>
+      <strong>Bachelor (09/2010-06/2014)</strong><br/>
+      Electrical Engineering, Wuhan University, China<br/>
+    </p>
+  </div>
+</div>
+
+ 
