@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Experience & Education"
-permalink: /experience/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
