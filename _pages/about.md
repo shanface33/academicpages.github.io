@@ -100,7 +100,7 @@ ___
 </div>
 ___
 
-<div align="center">
+<div align="center" width="20%">
 <p>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc&cl=ffffff&w=a"></script>
 </p>
