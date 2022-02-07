@@ -60,7 +60,7 @@ ___
     <p>
       <strong>3D Face Anti-spoofing with Factorized Bilinear Coding</strong><br/>
       <u>Shan Jia</u>, Xin Li*, Chuanbo Hu, Guodong Guo, Zhengquan Xu<br/>
-      IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2020. [<a href="https://arxiv.org/pdf/2005.06514.pdf">PDF</a>]
+      IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2020. [<a href="https://arxiv.org/pdf/2005.06514.pdf">PDF</a>] [<a href="https://github.com/shanface33/FBC_face_anti-spoofing">Code</a>]
     </p>
   </div>
 </div>
