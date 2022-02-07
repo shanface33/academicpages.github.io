@@ -76,8 +76,7 @@ ___
     <p>
       <strong>A Survey on 3D Mask Presentation Attack Detection and Countermeasures</strong><br/>
       <u>Shan Jia</u>, Guodong Guo*, Zhengquan Xu<br/>
-      Pattern Recognition, 2020.<br/>
-     [<a href="https://par.nsf.gov/servlets/purl/10222085">PDF</a>]
+      Pattern Recognition, 2020. [<a href="https://par.nsf.gov/servlets/purl/10222085">PDF</a>]
     </p>
   </div>
 </div>
