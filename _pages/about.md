@@ -24,6 +24,23 @@ Selected Publications
 ======
 <div class="row">
   <div class="column left">
+    <img align="left" width="25%" src="https://shanface33.github.io/images/SJ_DF.jpg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Model Attribution of Face-swap Deepfake Videos</strong><br/>
+      <u>Shan Jia</u>, Xin Li, Siwei Lyu<br/>
+      arXiv, 2022.
+     [<a href="https://arxiv.org/pdf/2202.12951.pdf">PDF</a>]
+      [<a href="https://github.com/shanface33/Deepfake_Model_Attribution">Code&Dataset</a>]
+    </p>
+  </div>
+</div>
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="25%" src="https://shanface33.github.io/images/SJ_DE.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
