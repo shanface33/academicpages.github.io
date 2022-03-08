@@ -48,7 +48,7 @@ ___
     <p>
       <strong>Text-Image De-Contextualization Detection Using Vision-Language Models</strong><br/>
       Mingzhen Huang, <u>Shan Jia</u>, Ming-Ching Chang, Siwei Lyu<br/>
-      ICASSP, 2022 (to appear).<br/>
+      ICASSP, 2022. [<a href="https://www.albany.edu/faculty/mchang2/files/2022_05_ICASSP_De-Contextualization.pdf">PDF</a>]
     </p>
   </div>
 </div>
