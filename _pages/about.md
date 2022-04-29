@@ -116,6 +116,6 @@ ___
 ___
 <div align="center">
 <p>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc'></script>
-</p>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc"></script>
+  </p>
 </div>
