@@ -116,3 +116,7 @@ ___
 ___
 <div align="center">
 </div>
+
+<div align="center">
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc"></script>
+</div>
