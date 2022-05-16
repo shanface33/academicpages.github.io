@@ -60,7 +60,7 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>A Street-view Image Inpainting Framework for Geo-localization</strong><br/>
+      <strong>A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding!</strong><br/>
       Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li<br/>
       arXiv (to appear), 2022.<br/>
     </p>
