@@ -62,7 +62,7 @@ ___
     <p>
       <strong>A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding</strong><br/>
       Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li<br/>
-      arXiv (to appear), 2022.<br/>
+     [<a href="https://arxiv.org/pdf/2205.06934.pdf">arXiv</a>]
     </p>
   </div>
 </div>
