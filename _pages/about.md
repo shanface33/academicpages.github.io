@@ -33,7 +33,7 @@ Selected Publications
     <p>
       <strong>A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding</strong><br/>
       Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li<br/>
-     [<a href="https://arxiv.org/pdf/2205.06934.pdf">arXiv</a>]  [<a href="[https://arxiv.org/pdf/2205.06934.pdf](https://github.com/cbhu523/saliency_last_way_finding)">Codes</a>]
+     [<a href="https://arxiv.org/pdf/2205.06934.pdf">arXiv</a>] [<a href="https://github.com/cbhu523/saliency_last_way_finding">Codes</a>]
     </p>
   </div>
 </div>
@@ -49,7 +49,7 @@ ___
       <strong>Model Attribution of Face-swap Deepfake Videos</strong><br/>
       <u>Shan Jia</u>, Xin Li, Siwei Lyu<br/>
       arXiv, 2022.
-     [<a href="https://arxiv.org/pdf/2202.12951.pdf">PDF</a>]
+     [<a href="https://ieeexplore.ieee.org/document/9897972">PDF</a>]
       [<a href="https://github.com/shanface33/Deepfake_Model_Attribution">Code&Dataset</a>]
     </p>
   </div>
