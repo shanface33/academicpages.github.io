@@ -14,7 +14,7 @@ redirect_from:
 
 News
 ======
-* Nov. 2022: A paper for [street view image inpainting](https://arxiv.org/pdf/2205.06934.pdf) is accepted for [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (IF-11.774).
+* Nov. 2022: A paper for [street view image inpainting](https://arxiv.org/pdf/2205.06934.pdf) is accepted for [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 11.774).
 * Jun. 2022: Two papers on Media Forensics (i.e., Deepfakes Model Attribution and AI-synthesized Image Detection) are accepted for [ICIP 2022](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1074).
 * Jan. 2022: A paper for Image-text De-contextualization Detection is accepted for ICASSP 2022.
 * Dec. 2021: I gave a keynote speech on Deepfakes at [Open Media Forensics Challenge (OpenMFC) 2020-2021 Workshop](https://mfc.nist.gov/workshop).
