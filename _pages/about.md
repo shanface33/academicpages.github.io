@@ -26,6 +26,21 @@ Selected Publications
 ======
 <div class="row">
   <div class="column left">
+    <img align="left" width="25%" src="https://shanface33.github.io/images/SJ_SV.jpg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding</strong><br/>
+      Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li<br/>
+     [<a href="https://arxiv.org/pdf/2205.06934.pdf">arXiv</a>]  [<a href="[https://arxiv.org/pdf/2205.06934.pdf](https://github.com/cbhu523/saliency_last_way_finding)">Codes</a>]
+    </p>
+  </div>
+</div>
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="25%" src="https://shanface33.github.io/images/SJ_DF.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -51,20 +66,6 @@ ___
       <strong>Text-Image De-Contextualization Detection Using Vision-Language Models</strong><br/>
       Mingzhen Huang, <u>Shan Jia</u>, Ming-Ching Chang, Siwei Lyu<br/>
       ICASSP, 2022. [<a href="https://www.albany.edu/faculty/mchang2/files/2022_05_ICASSP_De-Contextualization.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-___
-<div class="row">
-  <div class="column left">
-    <img align="left" width="25%" src="https://shanface33.github.io/images/SJ_SV.jpg?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding</strong><br/>
-      Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li<br/>
-     [<a href="https://arxiv.org/pdf/2205.06934.pdf">arXiv</a>]
     </p>
   </div>
 </div>
