@@ -14,10 +14,6 @@ redirect_from:
 
 News
 ======
-body {
-    font-family: "Times New Roman", "MSKT";  
-    font-size: 20px;  
-}
 * Nov. 2022: A paper on [street view image inpainting](https://arxiv.org/pdf/2205.06934.pdf) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 11.774).
 * Jun. 2022: Two papers on Media Forensics (i.e., [Deepfakes Model Attribution](https://ieeexplore.ieee.org/document/9897972) and [AI-synthesized Image Detection](https://ieeexplore.ieee.org/document/9897820)) are accepted by [ICIP 2022](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1074).
 * Jan. 2022: A paper on [Image-text De-contextualization Detection](https://ieeexplore.ieee.org/document/9746193) is accepted by ICASSP 2022.
