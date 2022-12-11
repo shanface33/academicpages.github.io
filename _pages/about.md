@@ -11,7 +11,7 @@ redirect_from:
 * I am currently a Postdoctoral Researcher in the [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering/about-us.html) at the University at Buffalo (UB), State University of New York. I feel lucky to be a member of the [Media Forensic Lab](https://ubmdfl.cse.buffalo.edu/) led by Professor [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/index.html). Before joining to UB, I was a visiting scholar in the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with Professor [Xin Li](https://xinli.faculty.wvu.edu/) and [Guodong Guo](https://directory.statler.wvu.edu/faculty-staff-directory/guodong-guo). In 2021, I finished my Ph.D. from Wuhan University, advised by Professor [Zhengquan Xu](https://www.researchgate.net/profile/Zhengquan-Xu). 
 
 * My research interests include digital media forensics, biometrics, and computer vision, etc.
-* <font color="red">My UB email address (shanjia@buffalo.edu) has been suspended due to a visa transfer. Please email me at jiashan0528@hotmail.com. Thanks! </font> 
+* <text color="red">My UB email address (shanjia@buffalo.edu) has been suspended due to a visa transfer. Please email me at jiashan0528@hotmail.com. Thanks! </text> 
 
 News
 ======
