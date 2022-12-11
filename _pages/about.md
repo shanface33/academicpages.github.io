@@ -12,6 +12,7 @@ redirect_from:
 
 * My research interests include digital media forensics, biometrics, and computer vision, etc.
 * My UB email address (shanjia@buffalo.edu) has been suspended due to a visa transfer. Please email me at jiashan0528@hotmail.com. Thanks! 
+
 News
 ======
 * Nov. 2022: A paper on [street view image inpainting](https://arxiv.org/pdf/2205.06934.pdf) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 11.774).
