@@ -14,7 +14,7 @@ redirect_from:
 
 News
 ======
-* Nov. 2022: A paper on [street view image inpainting](https://arxiv.org/pdf/2205.06934.pdf) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 11.774).
+* Nov. 2022: A paper on [street view image inpainting](https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=author) is accepted by ISPRS Journal of Photogrammetry and Remote Sensing (Impact Factor: 11.774).
 * Jun. 2022: Two papers on Media Forensics (i.e., [Deepfakes Model Attribution](https://ieeexplore.ieee.org/document/9897972) and [AI-synthesized Image Detection](https://ieeexplore.ieee.org/document/9897820)) are accepted by [ICIP 2022](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1074).
 * Jan. 2022: A paper on [Image-text De-contextualization Detection](https://ieeexplore.ieee.org/document/9746193) is accepted by ICASSP 2022.
 * Dec. 2021: I gave a keynote speech on Deepfakes at [Open Media Forensics Challenge (OpenMFC) 2020-2021 Workshop](https://mfc.nist.gov/workshop).
@@ -33,7 +33,7 @@ Selected Publications
     <p>
       <strong>A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding</strong><br/>
       Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li<br/>
-     [<a href="https://arxiv.org/pdf/2205.06934.pdf">arXiv</a>] [<a href="https://github.com/cbhu523/saliency_last_way_finding">Codes</a>]
+     [<a href="https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=author">Paper</a>] [<a href="https://github.com/cbhu523/saliency_last_way_finding">Codes</a>]
     </p>
   </div>
 </div>
