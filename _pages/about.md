@@ -14,12 +14,15 @@ redirect_from:
 
 News
 ======
-* Nov. 2022: A paper on [street view image inpainting](https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=author) is accepted by ISPRS Journal of Photogrammetry and Remote Sensing (Impact Factor: 11.774).
-* Jun. 2022: Two papers on Media Forensics (i.e., [Deepfakes Model Attribution](https://ieeexplore.ieee.org/document/9897972) and [AI-synthesized Image Detection](https://ieeexplore.ieee.org/document/9897820)) are accepted by [ICIP 2022](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1074).
-* Jan. 2022: A paper on [Image-text De-contextualization Detection](https://ieeexplore.ieee.org/document/9746193) is accepted by ICASSP 2022.
+* Aug. 2023: A paper on [image forgery detection](https://arxiv.org/pdf/2211.08615.pdf) is accepted to IEEE Transactions on Multimedia.
+* Apr. 2023: Two papers on media forensics have been accepted to the 7th Workshop on Media Forensics (WMF). Our Autosplice dataset has been released ([link](https://github.com/shanface33/AutoSplice_Dataset)! 
+* Nov. 2022: A paper on [street view image inpainting](https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=author) is accepted to ISPRS Journal of Photogrammetry and Remote Sensing (Impact Factor: 11.774).
+* Nov. 2022: A paper on [street view image inpainting](https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=author) is accepted to ISPRS Journal of Photogrammetry and Remote Sensing (Impact Factor: 11.774).
+* Jun. 2022: Two papers on Media Forensics (i.e., [Deepfakes Model Attribution](https://ieeexplore.ieee.org/document/9897972) and [AI-synthesized Image Detection](https://ieeexplore.ieee.org/document/9897820)) have been accepted to [ICIP 2022](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1074).
+* Jan. 2022: A paper on [Image-text De-contextualization Detection](https://ieeexplore.ieee.org/document/9746193) has been accepted to ICASSP 2022.
 * Dec. 2021: I gave a keynote speech on Deepfakes at [Open Media Forensics Challenge (OpenMFC) 2020-2021 Workshop](https://mfc.nist.gov/workshop).
 * Oct. 2021: I joined [UC Berkeley InforCamp](https://infocamp.ischool.berkeley.edu/) Deepfake Panel as a speaker.
-* Jun. 2021: I defensed my Ph.D. dissertation on face spoofing detection and will join UB as a Post-Doctoral Researcher.
+* Jun. 2021: I defended my Ph.D. dissertation on face spoofing detection and will join UB as a Post-Doctoral Researcher.
 * Dec. 2020: I joined [2020 International Graduate Workshop on GeoInformatics](http://www.lmars.whu.edu.cn/Upload/1608014392.pdf), and won the Excellent Presentation Award (1/11).
 
 Selected Publications
