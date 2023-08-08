@@ -15,7 +15,7 @@ redirect_from:
 News
 ======
 * Aug. 2023: A paper on [image forgery detection](https://arxiv.org/pdf/2211.08615.pdf) is accepted to IEEE Transactions on Multimedia.
-* Apr. 2023: Two papers on media forensics have been accepted to the 7th Workshop on Media Forensics (WMF). Our Autosplice dataset has been released ([link](https://github.com/shanface33/AutoSplice_Dataset)! 
+* Apr. 2023: Two papers on media forensics have been accepted to the 7th Workshop on Media Forensics (WMF). Our Autosplice dataset has been released ([link](https://github.com/shanface33/AutoSplice_Dataset))! 
 * Nov. 2022: A paper on [street view image inpainting](https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=author) is accepted to ISPRS Journal of Photogrammetry and Remote Sensing (Impact Factor: 11.774).
 * Nov. 2022: A paper on [street view image inpainting](https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=author) is accepted to ISPRS Journal of Photogrammetry and Remote Sensing (Impact Factor: 11.774).
 * Jun. 2022: Two papers on Media Forensics (i.e., [Deepfakes Model Attribution](https://ieeexplore.ieee.org/document/9897972) and [AI-synthesized Image Detection](https://ieeexplore.ieee.org/document/9897820)) have been accepted to [ICIP 2022](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1074).
