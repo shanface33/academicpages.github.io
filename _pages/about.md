@@ -14,6 +14,7 @@ redirect_from:
 
 News
 ======
+* Aug. 2023: I’m happy to share that I’m starting a new position as Assistant Lab Director at [UB Media Forensic Lab (UB MDFL)](https://ubmdfl.cse.buffalo.edu/)!😊
 * Aug. 2023: A paper on [image forgery detection](https://arxiv.org/pdf/2211.08615.pdf) is accepted to IEEE Transactions on Multimedia.
 * Apr. 2023: Two papers on Media Forensics are accepted to the CVPR2023 Workshop on Media Forensics (WMF). Our [Autosplice dataset](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf) has been released ([link](https://github.com/shanface33/AutoSplice_Dataset))! 
 * Nov. 2022: A paper on [street view image inpainting](https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=author) is accepted to [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 12.7).
