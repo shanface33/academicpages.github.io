@@ -14,7 +14,7 @@ redirect_from:
 
 News
 ======
-* Sep. 2023: A paper on visual-audio deepfake detection is accepted by [MIT IEEE Undergraduate Research Technology Conference] (https://urtc.mit.edu/). Congratulations to Sneha Muppalla (a senior high school student)!
+* Sep. 2023: A paper on audio-visual deepfake detection is accepted by [MIT IEEE Undergraduate Research Technology Conference] (https://urtc.mit.edu/). Congratulations to Sneha Muppalla (a senior high school student)!
 * Aug. 2023: A paper on [street view imagery analysis](https://arxiv.org/pdf/2305.02911.pdf) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 12.7).
 * Aug. 2023: I’m starting a new position as Assistant Lab Director at [UB Media Forensic Lab (UB MDFL)](https://ubmdfl.cse.buffalo.edu/)!😊
 * Aug. 2023: A paper on [image forgery detection](https://arxiv.org/pdf/2211.08615.pdf) is accepted by IEEE Transactions on Multimedia.
